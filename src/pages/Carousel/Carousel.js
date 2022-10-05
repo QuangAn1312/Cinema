@@ -15,7 +15,7 @@ export default function Carousel() {
   const settings = {
     dots: true,
     infinite: true,
-    autoplaySpeed: 5000, //speed per sence
+    autoplaySpeed: 1000, //speed per sence
     autoplay: false,
     speed: 500,
     swipeToSlide: true,
