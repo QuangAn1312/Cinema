@@ -84,7 +84,7 @@ export default function Header(props) {
             className={classes.logo}
           >
             <img
-              src="/assets/img/web-logo.png"
+              src="/assets/img/logo-cinema.jpg"
               alt="logo"
               style={{ height: 50 }}
             />
